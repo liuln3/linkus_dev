@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.mashibing.verification.VerificationApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.242 s <<< FAILURE! - in com.mashibing.verification.VerificationApplicationTests
+com.mashibing.verification.VerificationApplicationTests  Time elapsed: 0.24 s  <<< ERROR!
+java.lang.IllegalStateException: Found multiple @SpringBootConfiguration annotated classes [Generic bean: class [com.mashibing.verification.VerificationApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\online-taxi-2022-public\online-taxi-public\verification\target\classes\com\mashibing\verification\VerificationApplication.class], Generic bean: class [com.mashibing.verification.VerificationCodeApplication]; scope=; abstract=false; lazyInit=null; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [D:\online-taxi-2022-public\online-taxi-public\verification\target\classes\com\mashibing\verification\VerificationCodeApplication.class]]
+
