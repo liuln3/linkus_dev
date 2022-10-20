@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2G0sdVX3BcFET2nWwzxQd1NS8JM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="flattenModules" value="true" />
@@ -102,6 +106,7 @@
       <updated>1665536922629</updated>
       <workItem from="1665536926410" duration="9352000" />
       <workItem from="1666176021224" duration="587000" />
+      <workItem from="1666240527719" duration="594000" />
     </task>
     <servers />
   </component>
